@@ -53,3 +53,7 @@ Add the following to your `.env` file:
 GOOGLE_GENAI_USE_VERTEXAI=FALSE
 GOOGLE_API_KEY=YOUR_ACTUAL_API_KEY_HERE
 ```
+
+## Reference Article
+
+[Medium Article](https://ai.gopubby.com/from-zero-to-genius-how-i-built-a-powerful-ai-agent-with-googles-adk-in-just-100-lines-of-code-79c16ceba7cc)
